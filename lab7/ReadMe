@@ -1,0 +1,9 @@
+Nom de l'étudiante ou de l'étudiant: Jean Markello Létang
+Numéro d'étudiant: 300245679
+Code du cours: ITI1521
+Section de laboratoire: A02
+
+Cette archive contient les 11 fichiers du laboratoire 7.
+
+Spécifiquement, ce fichier (README.txt), ainsi que
+Exercise1.java, Account.java, NotEnoughMoneyException.java, Stack.java, ArrayStack.java, DynamicArrayStack.java, FullStackException.java, Map.java, Dictionary.java, Pair.java.
